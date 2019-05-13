@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update Status"
+    id="e50f93a0-7a61-4ae2-93bb-758f9124903c">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_7f447fff-51f4-4239-b1cd-34bf1e0978c6.xml#7f447fff-51f4-4239-b1cd-34bf1e0978c6"/>
+  <target
+      xsi:type="archimate:Representation"
+      href="Representation_b7d5b236-a4e2-4240-a08e-521e62c050c1.xml#b7d5b236-a4e2-4240-a08e-521e62c050c1"/>
+</archimate:AccessRelationship>

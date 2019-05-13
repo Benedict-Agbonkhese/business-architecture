@@ -1,0 +1,6 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3 - * Manage TSS Employee Account"
+    id="af45e6de-4544-4b19-bd74-2bfcfebe0bf0"
+    documentation="Ability for current TSS employees to log in and see current, upcoming and past assignment&#xD;&#xA;information&#xD;&#xA;a) Ability for TSS staff to restrict access to view and edit for certain fields in the employee&#xD;&#xA;record"
+    viewpoint="business_process_cooperation"/>

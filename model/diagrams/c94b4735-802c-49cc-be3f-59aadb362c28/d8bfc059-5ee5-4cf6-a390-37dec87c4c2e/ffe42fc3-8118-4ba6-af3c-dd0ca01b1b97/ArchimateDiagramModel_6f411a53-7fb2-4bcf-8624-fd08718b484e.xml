@@ -1,0 +1,6 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Talent Groups / Pools"
+    id="6f411a53-7fb2-4bcf-8624-fd08718b484e"
+    documentation="Ability to define a talent pool&#xD;&#xA;Ability to add applicants to a talent pool from various areas of the application: talent search, applicant profile, application&#xD;&#xA;Ability to remove applicant from a talent pool"
+    viewpoint="business_process_cooperation"/>

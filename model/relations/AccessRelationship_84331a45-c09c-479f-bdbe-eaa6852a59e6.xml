@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Check Status"
+    id="84331a45-c09c-479f-bdbe-eaa6852a59e6"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_aa4c67d2-f8b2-416b-bae7-b4d530604079.xml#aa4c67d2-f8b2-416b-bae7-b4d530604079"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_43d3020c-29e4-40bf-8725-a1614800836b.xml#43d3020c-29e4-40bf-8725-a1614800836b"/>
+</archimate:AccessRelationship>

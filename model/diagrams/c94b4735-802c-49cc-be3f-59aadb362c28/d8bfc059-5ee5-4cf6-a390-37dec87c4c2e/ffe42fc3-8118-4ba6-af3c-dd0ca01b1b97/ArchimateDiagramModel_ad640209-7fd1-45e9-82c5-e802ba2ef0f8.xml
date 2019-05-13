@@ -1,0 +1,6 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Complete Talent Search"
+    id="ad640209-7fd1-45e9-82c5-e802ba2ef0f8"
+    documentation="Ability to search applicant profiles and resumes based on key words&#xD;&#xA;Ability to add applicants to talent pools from search results"
+    viewpoint="business_process_cooperation"/>

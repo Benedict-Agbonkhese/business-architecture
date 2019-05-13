@@ -1,0 +1,6 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Frontend Application Status"
+    id="b5e6f8a7-a48c-40cb-ae0a-ac70cb8421cf"
+    documentation="Ability to define the following frontend application statuses: &#xD;&#xA;- Level 1: Successful or Unsuccessful&#xD;&#xA;- Level 2: Pre-qualification, Testing, Interview, Reference Check, Job Offer, Hired&#xD;&#xA;&#xD;&#xA;Abilty to identify the Level 2 status associated with a Level 1 status (e.g. Unsuccessful - Completed Testing)&#xD;&#xA;- Applicant cannot be Unsuccessful and Hired"
+    viewpoint="business_process_cooperation"/>

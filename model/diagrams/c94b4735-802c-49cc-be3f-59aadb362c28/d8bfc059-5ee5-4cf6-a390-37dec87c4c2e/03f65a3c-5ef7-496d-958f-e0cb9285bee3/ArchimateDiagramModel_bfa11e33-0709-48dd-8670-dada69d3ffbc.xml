@@ -1,0 +1,6 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage TSS Order View"
+    id="bfa11e33-0709-48dd-8670-dada69d3ffbc"
+    documentation="The ability for the system to automatically define urgency of order:&#xD;&#xA;• new orders are low priority&#xD;&#xA;• orders that are a week old are medium priority&#xD;&#xA;• orders that are over a week old become high priority&#xD;&#xA;• The ability for TSS to override and change the priority of an order"
+    viewpoint="business_process_cooperation"/>

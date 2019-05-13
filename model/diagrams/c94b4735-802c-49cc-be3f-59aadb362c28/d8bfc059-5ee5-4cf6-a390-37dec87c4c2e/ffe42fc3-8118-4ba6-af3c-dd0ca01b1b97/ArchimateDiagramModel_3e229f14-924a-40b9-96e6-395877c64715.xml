@@ -1,0 +1,6 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Reminders"
+    id="3e229f14-924a-40b9-96e6-395877c64715"
+    documentation="Ability to define reminders based on frontend and backend application statuses&#xD;&#xA;Ability to link reminders to specific communication templates&#xD;&#xA;"
+    viewpoint="information_structure"/>

@@ -1,0 +1,6 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2 - * Define TSS Employee Account"
+    id="f4772b8b-86b9-4164-b262-67aa954ff8c9"
+    documentation="Ability for TSS to change/ edit employee information such as:&#xD;&#xA;• Address&#xD;&#xA;• Phone number&#xD;&#xA;• Availability (start and end date)&#xD;&#xA;• Salary/Hourly Rate&#xD;&#xA;• Recovery cost (refers to the 5$/hr TSS fee)&#xD;&#xA;• Email address (both personal and employee suffix- if possible)&#xD;&#xA;• Vacation requests and dates&#xD;&#xA;• Skill set and proficiency level&#xD;&#xA;• Test scores&#xD;&#xA;• Resume&#xD;&#xA;• References&#xD;&#xA;• Visa documents&#xD;&#xA;• Which TSS staff interviewed candidate&#xD;&#xA;• Referrals the employee has provided&#xD;&#xA;• Note section&#xD;&#xA;b) The ability to view"
+    viewpoint="business_process_cooperation"/>

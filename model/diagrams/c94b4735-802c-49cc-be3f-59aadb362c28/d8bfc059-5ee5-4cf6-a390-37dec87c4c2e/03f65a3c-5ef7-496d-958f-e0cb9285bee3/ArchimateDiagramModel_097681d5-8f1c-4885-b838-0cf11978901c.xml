@@ -1,0 +1,6 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage TSS Employee View"
+    id="097681d5-8f1c-4885-b838-0cf11978901c"
+    documentation="•&#x9;Ability to identify employees that are available for temporary staffing, and employees on temporary assignments with approaching end dates.&#xD;&#xA;&#xD;&#xA;Employees with upcoming end dates- when an employee’s end date is&#xD;&#xA;two weeks away the system adds their name and end date to a list and&#xD;&#xA;alerts the recruiters&#xD;&#xA;&#xD;&#xA;Employees who are available for work&#xD;&#xA;o Employees who have submitted their hours on Workbrain for the pay&#xD;&#xA;period- this is configurable enabling TSS staff to display either employees&#xD;&#xA;who have submitted hours, or those who haven’t, or both."
+    viewpoint="business_process_cooperation"/>

@@ -1,0 +1,6 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2 - * Cancel Vacancy"
+    id="9418b1d1-a4a3-4e0a-83c1-5554ef726180"
+    documentation="Cancelled Internal Job Postings&#xD;&#xA;•&#x9;Cancelled internal job postings are posted on the Successful Applicant List.&#xD;&#xA;•&#x9;Automated email notification (alert) sent to employees who have applied to the internal job posting and employees who have received a job alert for the posting.&#xD;&#xA;•&#x9;If a posting is cancelled within the posting duration and internal applicants have applied:&#xD;&#xA;o&#x9;The Hiring Leader cancels the job requisition and provides a reason to cancel via drop down menu. &#xD;&#xA;o&#x9;If the hiring leader reposts the same job (position number) the system recognizes that this posting was previously cancelled and populates the reason the posting was cancelled.&#xD;&#xA;o&#x9;Once the new posting is posted on the internal careers site– automated email notification (alert) is sent to those employees who applied for the original job posting advising them the replacement posting is now published on the site. &#xD;&#xA;"
+    viewpoint="business_process_cooperation"/>

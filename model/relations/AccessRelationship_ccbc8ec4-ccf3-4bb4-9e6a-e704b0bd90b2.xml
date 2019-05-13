@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Retrieve"
+    id="ccbc8ec4-ccf3-4bb4-9e6a-e704b0bd90b2"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_4d468cad-bcd7-4a26-8f97-ac64de0cd0c1.xml#4d468cad-bcd7-4a26-8f97-ac64de0cd0c1"/>
+  <target
+      xsi:type="archimate:Representation"
+      href="Representation_ad21b5b9-b7b7-4e30-828d-4238acad3622.xml#ad21b5b9-b7b7-4e30-828d-4238acad3622"/>
+</archimate:AccessRelationship>

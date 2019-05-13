@@ -1,0 +1,6 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Applicant Tagging"
+    id="1e1cff5b-166c-4578-a867-9d5afff8a201"
+    documentation="Ability to tag an applicant as ineligible for (re)hire&#xD;&#xA;Ability to tag an external applicant as &quot;Contact Recruiter Before Considering Applicant&quot;&#xD;&#xA;Ability to tag an internal applicant as &quot;Contact HR Before Considering Applicant&quot;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Recruiter will require the ability flag external applicants &#xD;&#xA;HRC will require the ability to flag internal applicants"
+    viewpoint="business_process_cooperation"/>

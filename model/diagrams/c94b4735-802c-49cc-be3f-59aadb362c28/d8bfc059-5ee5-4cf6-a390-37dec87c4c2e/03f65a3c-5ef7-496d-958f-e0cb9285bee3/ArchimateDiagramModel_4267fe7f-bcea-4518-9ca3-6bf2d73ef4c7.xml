@@ -1,0 +1,5 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage TSS Applicant View"
+    id="4267fe7f-bcea-4518-9ca3-6bf2d73ef4c7"
+    documentation="Ability to search for current employees or candidates based on:&#xD;&#xA;• skill set&#xD;&#xA;• precise keyword or phrases&#xD;&#xA;• location&#xD;&#xA;• location groupings- e.g.- Victoria and surrounding area&#xD;&#xA;b) Ability to save searches&#xD;&#xA;c) Easy to view and see candidate notes.&#xD;&#xA;• Ability to save candidates&#xD;&#xA;• Ability to have multiple current shortlists of candidates with the ability to&#xD;&#xA;connect them with an open order&#xD;&#xA;• Ability to name shortlists- example ‘Admin 2’"/>

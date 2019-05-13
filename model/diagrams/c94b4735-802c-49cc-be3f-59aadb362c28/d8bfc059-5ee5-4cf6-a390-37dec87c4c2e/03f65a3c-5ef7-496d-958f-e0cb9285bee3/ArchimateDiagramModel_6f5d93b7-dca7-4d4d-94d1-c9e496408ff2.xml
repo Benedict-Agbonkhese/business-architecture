@@ -1,0 +1,6 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage TSS Order Statuses"
+    id="6f5d93b7-dca7-4d4d-94d1-c9e496408ff2"
+    documentation="d) The ability to define and change the status of an order:&#xD;&#xA;• priority level&#xD;&#xA;• open&#xD;&#xA;• shortlisted candidates&#xD;&#xA;• interviewing&#xD;&#xA;• meeting greets&#xD;&#xA;• filled&#xD;&#xA;• ability to edit status fields&#xD;&#xA;"
+    viewpoint="business_process_cooperation"/>

@@ -1,0 +1,6 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Evaluation Communication Templates"
+    id="0e3ced81-60b8-4ec0-9783-8cf7baf80d16"
+    documentation="Unsuccessful application email based on frontend status (applicable only to external applicants)&#xD;&#xA;Test Invitation Email&#xD;&#xA;Interview Request Email&#xD;&#xA;Reference Request Email&#xD;&#xA;Offer Email&#xD;&#xA;"
+    viewpoint="information_structure"/>

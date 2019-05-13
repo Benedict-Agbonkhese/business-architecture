@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update"
+    id="87778e1b-7132-483b-82e9-32184d328c49">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_96c5b383-e223-4fa2-a0c9-fa4d6e1a4b0c.xml#96c5b383-e223-4fa2-a0c9-fa4d6e1a4b0c"/>
+  <target
+      xsi:type="archimate:Representation"
+      href="Representation_3fcdd8a3-7905-48e4-9af9-ee5ef20ad768.xml#3fcdd8a3-7905-48e4-9af9-ee5ef20ad768"/>
+</archimate:AccessRelationship>

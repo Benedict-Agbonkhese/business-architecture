@@ -1,0 +1,6 @@
+<archimate:Junction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Outcome of Budget Approval Assessment"
+    id="6052aa2a-b3f1-4aec-bd4c-7dc09926c0cd"
+    documentation="Budget approval is only required for non-contract, non-clinical positions"
+    type="or"/>

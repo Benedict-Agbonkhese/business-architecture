@@ -1,0 +1,6 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TSS Performance Management"
+    id="d0cf780f-c41b-44af-a1fd-4a529c168909"
+    documentation="Ability to send quality assurance survey's to our clients (host managers) and employees, information to flow through to the employee TSS file (invisible to EE)"
+    viewpoint="business_process_cooperation"/>

@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collate"
+    id="33abe419-9727-490c-ada0-a872e728baff"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_16ba7f31-c1fb-44cf-94ca-9beb7906f9e0.xml#16ba7f31-c1fb-44cf-94ca-9beb7906f9e0"/>
+  <target
+      xsi:type="archimate:Representation"
+      href="Representation_7bd1fe92-7b27-4f82-b09f-4e7556615aeb.xml#7bd1fe92-7b27-4f82-b09f-4e7556615aeb"/>
+</archimate:AccessRelationship>
