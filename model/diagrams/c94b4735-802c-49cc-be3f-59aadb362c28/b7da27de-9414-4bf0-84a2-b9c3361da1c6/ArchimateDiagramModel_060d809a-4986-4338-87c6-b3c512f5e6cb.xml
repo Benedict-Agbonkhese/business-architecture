@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="2 - Pre-Screen Applications Using Job Fit"
+    name="Pre-Screen Applications Based on Fit with Job"
     id="060d809a-4986-4338-87c6-b3c512f5e6cb"
     viewpoint="business_process_cooperation">
   <children
@@ -111,7 +111,7 @@
     <bounds
         x="240"
         y="216"
-        width="673"
+        width="733"
         height="134"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -179,14 +179,19 @@
           id="1ce1371a-83ba-441d-9ed8-5336fc345f63"
           source="f4c9794d-ebea-4185-b9b6-acf5b134dbb4"
           target="5ae3f89a-13be-464f-952c-98051f1b5bf2">
+        <bendpoints
+            startX="-60"
+            startY="108"
+            endX="6"
+            endY="-165"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_f8f8ade9-cb48-49c4-a5a0-4b3f539ed27e.xml#f8f8ade9-cb48-49c4-a5a0-4b3f539ed27e"/>
       </sourceConnections>
       <bounds
-          x="300"
+          x="276"
           y="36"
-          width="120"
+          width="144"
           height="73"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
@@ -210,17 +215,17 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="2e54bcec-b323-4d1a-9a90-2d37511f58f4"
+          id="5fce4174-7e0a-4be5-939c-2e4058308537"
           source="57a44290-ded1-4149-8de0-90ac43e29e21"
-          target="0f9c3284-de74-4340-bbff-c79531fc72bc">
+          target="884a3080-2bd7-4246-ad55-151939cb657e">
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_b103c520-965f-415c-b87e-43e0ca267d7e.xml#b103c520-965f-415c-b87e-43e0ca267d7e"/>
+            href="TriggeringRelationship_45ea1f7f-0499-4b1f-b1bd-00808034cca2.xml#45ea1f7f-0499-4b1f-b1bd-00808034cca2"/>
       </sourceConnections>
       <bounds
-          x="528"
+          x="540"
           y="36"
-          width="120"
+          width="133"
           height="73"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
@@ -229,28 +234,6 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_0b20c52c-99fc-4212-9657-e5b6d9d8229e.xml#0b20c52c-99fc-4212-9657-e5b6d9d8229e"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="0f9c3284-de74-4340-bbff-c79531fc72bc"
-      targetConnections="2e54bcec-b323-4d1a-9a90-2d37511f58f4">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="3b2f4866-0548-4484-bd29-662c5d6fc2bf"
-        source="0f9c3284-de74-4340-bbff-c79531fc72bc"
-        target="884a3080-2bd7-4246-ad55-151939cb657e">
-      <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_248c952d-d443-4d82-846f-1ec2074a8a08.xml#248c952d-d443-4d82-846f-1ec2074a8a08"/>
-    </sourceConnections>
-    <bounds
-        x="936"
-        y="252"
-        width="120"
-        height="73"/>
-    <archimateElement
-        xsi:type="archimate:BusinessEvent"
-        href="BusinessEvent_aed67b6f-b60b-4bd7-b208-6f78fb031dbc.xml#aed67b6f-b60b-4bd7-b208-6f78fb031dbc"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -281,7 +264,7 @@
     <bounds
         x="240"
         y="363"
-        width="673"
+        width="733"
         height="334"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -332,7 +315,7 @@
             href="CompositionRelationship_9ea64d12-2213-43de-8058-5b28f0ad8122.xml#9ea64d12-2213-43de-8058-5b28f0ad8122"/>
       </sourceConnections>
       <bounds
-          x="516"
+          x="540"
           y="72"
           width="144"
           height="109"/>
@@ -439,11 +422,11 @@
       id="82bd4e18-f813-4d43-ade6-d5f5fb10ea3f"
       font="1|Segoe UI|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
-      content="2 - Pre-Screen Applications Using Job Fit"
+      content="Pre-Screen Applications Based on Fit with Job"
       borderType="2">
     <bounds
         x="12"
-        y="44"
+        y="24"
         width="553"
         height="41"/>
   </children>
@@ -463,9 +446,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="884a3080-2bd7-4246-ad55-151939cb657e"
-      targetConnections="3b2f4866-0548-4484-bd29-662c5d6fc2bf">
+      targetConnections="5fce4174-7e0a-4be5-939c-2e4058308537">
     <bounds
-        x="1080"
+        x="984"
         y="255"
         width="120"
         height="73"/>
